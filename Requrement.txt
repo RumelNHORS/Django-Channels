@@ -1,0 +1,3 @@
+Using(Configer) PostgresSQL Database
+Using Django Channels
+Using Consumer(SyncConsumer and AsyncConsumer)
